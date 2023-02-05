@@ -1,0 +1,6 @@
+C:\Users\hymprduser1\source\repos\Exhibit\Exhibit\obj\Debug\Exhibit.csproj.CoreCompileInputs.cache
+C:\Users\hymprduser1\source\repos\Exhibit\Exhibit\bin\Debug\Exhibit.exe.config
+C:\Users\hymprduser1\source\repos\Exhibit\Exhibit\bin\Debug\Exhibit.exe
+C:\Users\hymprduser1\source\repos\Exhibit\Exhibit\bin\Debug\Exhibit.pdb
+C:\Users\hymprduser1\source\repos\Exhibit\Exhibit\obj\Debug\Exhibit.exe
+C:\Users\hymprduser1\source\repos\Exhibit\Exhibit\obj\Debug\Exhibit.pdb
